@@ -1,0 +1,1 @@
+"# dynamsoft-webtwain-resources" 
